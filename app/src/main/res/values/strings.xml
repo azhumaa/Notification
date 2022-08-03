@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">notification</string>
+    <string name="time_reamining">Time Reamining: %d</string>
+    <string name="channel_name">your home</string>
+    <string name="channel_description">say hii</string>
+</resources>
